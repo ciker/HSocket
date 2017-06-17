@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "09f05545e74d6c9bc9ba594a8c2e7ce9f3f822c7"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "HSocket/1.0.0": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.0-preview1-25301-01"
+        },
+        "runtime": {
+          "HSocket.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "Microsoft.Packaging.Tools/1.0.0-preview1-25301-01": {},
+      "NETStandard.Library/2.0.0-preview1-25301-01": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0",
+          "Microsoft.Packaging.Tools": "1.0.0-preview1-25301-01"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HSocket/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "Microsoft.Packaging.Tools/1.0.0-preview1-25301-01": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-V/P+zBN/mQgfKlP7GcxEzoq25EtW1wBvplbgAj6Tjq17tzKQ+Nvsy0NNRKNiGHnOIAfnHJzZJOK/ccoCT2EEDA==",
+      "path": "microsoft.packaging.tools/1.0.0-preview1-25301-01",
+      "hashPath": "microsoft.packaging.tools.1.0.0-preview1-25301-01.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.0-preview1-25301-01": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fLAlY7G86LZqJF9Yg6YrLHOjkfIHAdY+8yiKYBhxc96MNjtNuAai0LylUTDoLauMRaQu0YcW1hTNstXVplH0kg==",
+      "path": "netstandard.library/2.0.0-preview1-25301-01",
+      "hashPath": "netstandard.library.2.0.0-preview1-25301-01.nupkg.sha512"
+    }
+  }
+}

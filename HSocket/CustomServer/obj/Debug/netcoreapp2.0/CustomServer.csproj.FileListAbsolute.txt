@@ -1,0 +1,12 @@
+D:\MyDocument\Dev\Project\HSocket\CustomServer\bin\Debug\netcoreapp2.0\CustomServer.deps.json
+D:\MyDocument\Dev\Project\HSocket\CustomServer\bin\Debug\netcoreapp2.0\CustomServer.runtimeconfig.json
+D:\MyDocument\Dev\Project\HSocket\CustomServer\bin\Debug\netcoreapp2.0\CustomServer.runtimeconfig.dev.json
+D:\MyDocument\Dev\Project\HSocket\CustomServer\bin\Debug\netcoreapp2.0\CustomServer.dll
+D:\MyDocument\Dev\Project\HSocket\CustomServer\bin\Debug\netcoreapp2.0\CustomServer.pdb
+D:\MyDocument\Dev\Project\HSocket\CustomServer\bin\Debug\netcoreapp2.0\HSocket.dll
+D:\MyDocument\Dev\Project\HSocket\CustomServer\bin\Debug\netcoreapp2.0\HSocket.pdb
+D:\MyDocument\Dev\Project\HSocket\CustomServer\obj\Debug\netcoreapp2.0\CustomServer.csprojResolveAssemblyReference.cache
+D:\MyDocument\Dev\Project\HSocket\CustomServer\obj\Debug\netcoreapp2.0\CustomServer.csproj.CoreCompileInputs.cache
+D:\MyDocument\Dev\Project\HSocket\CustomServer\obj\Debug\netcoreapp2.0\CustomServer.AssemblyInfo.cs
+D:\MyDocument\Dev\Project\HSocket\CustomServer\obj\Debug\netcoreapp2.0\CustomServer.dll
+D:\MyDocument\Dev\Project\HSocket\CustomServer\obj\Debug\netcoreapp2.0\CustomServer.pdb

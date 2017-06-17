@@ -1,0 +1,8 @@
+D:\MyDocument\Dev\Project\HSocket\HSocket\bin\Debug\netstandard2.0\HSocket.deps.json
+D:\MyDocument\Dev\Project\HSocket\HSocket\bin\Debug\netstandard2.0\HSocket.dll
+D:\MyDocument\Dev\Project\HSocket\HSocket\bin\Debug\netstandard2.0\HSocket.pdb
+D:\MyDocument\Dev\Project\HSocket\HSocket\obj\Debug\netstandard2.0\HSocket.csprojResolveAssemblyReference.cache
+D:\MyDocument\Dev\Project\HSocket\HSocket\obj\Debug\netstandard2.0\HSocket.csproj.CoreCompileInputs.cache
+D:\MyDocument\Dev\Project\HSocket\HSocket\obj\Debug\netstandard2.0\HSocket.AssemblyInfo.cs
+D:\MyDocument\Dev\Project\HSocket\HSocket\obj\Debug\netstandard2.0\HSocket.dll
+D:\MyDocument\Dev\Project\HSocket\HSocket\obj\Debug\netstandard2.0\HSocket.pdb

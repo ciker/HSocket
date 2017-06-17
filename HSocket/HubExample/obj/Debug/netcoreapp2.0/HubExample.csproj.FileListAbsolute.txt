@@ -1,0 +1,12 @@
+D:\MyDocument\Dev\Project\HSocket\HubExample\bin\Debug\netcoreapp2.0\HubExample.deps.json
+D:\MyDocument\Dev\Project\HSocket\HubExample\bin\Debug\netcoreapp2.0\HubExample.runtimeconfig.json
+D:\MyDocument\Dev\Project\HSocket\HubExample\bin\Debug\netcoreapp2.0\HubExample.runtimeconfig.dev.json
+D:\MyDocument\Dev\Project\HSocket\HubExample\bin\Debug\netcoreapp2.0\HubExample.dll
+D:\MyDocument\Dev\Project\HSocket\HubExample\bin\Debug\netcoreapp2.0\HubExample.pdb
+D:\MyDocument\Dev\Project\HSocket\HubExample\obj\Debug\netcoreapp2.0\HubExample.csprojResolveAssemblyReference.cache
+D:\MyDocument\Dev\Project\HSocket\HubExample\obj\Debug\netcoreapp2.0\HubExample.csproj.CoreCompileInputs.cache
+D:\MyDocument\Dev\Project\HSocket\HubExample\obj\Debug\netcoreapp2.0\HubExample.AssemblyInfo.cs
+D:\MyDocument\Dev\Project\HSocket\HubExample\obj\Debug\netcoreapp2.0\HubExample.dll
+D:\MyDocument\Dev\Project\HSocket\HubExample\obj\Debug\netcoreapp2.0\HubExample.pdb
+D:\MyDocument\Dev\Project\HSocket\HubExample\bin\Debug\netcoreapp2.0\HSocket.dll
+D:\MyDocument\Dev\Project\HSocket\HubExample\bin\Debug\netcoreapp2.0\HSocket.pdb
