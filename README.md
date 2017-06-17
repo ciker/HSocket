@@ -16,7 +16,7 @@ All simple. Just create socket hub and and set event.
             server.Close(false);
 						
 And thats all you create you socket hub.
-OR if u need more setting you or something more you can create you own hub.
+OR if u need more setting  or something more, you can create you own hub.
 To create you own connection just Inheritance like this
 
     class CustomConnection : Connection<CustomConnection>
